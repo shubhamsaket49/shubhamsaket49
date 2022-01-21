@@ -23,7 +23,7 @@
 
 - 😄 Pronouns:: He/Him 💁‍♂️ <br>
 
-- 📄 Know about my projects:: **[My Resume](https://github.com/shubhamsaket49/resume/blob/master/index.html.pdf)**
+- 📄 Know about my projects:: **[My Resume](<a href="resumeupdated.pdf"></a>)**
 - ⚡ Fun fact::<b>  I play online games and love coding as well </b>
 <br>
 
