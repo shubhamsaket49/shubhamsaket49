@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Shubham Saket</h1>
-<h3 align="center">A Frontend developer and Data Science Enthusiast</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsaket49&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsaket49" /> </p>
 
@@ -16,14 +16,14 @@
 
 - 👨‍💻 Check Out:: **[My Portfolio](https://shubhamsaket49.github.io/ShubhamSaket-Portfolio/)**<br>
 
-- 💬 I'm currently Working on new Skills::  **Django,Excel**<br>
+- 💬 I'm currently Working on new Skills::  **C#,ASP.NET**<br>
 
 - 📫 How to reach me:: **[Linkedin](https://www.linkedin.com/in/shubhamsaket/)**<br>
 
 
 - 😄 Pronouns:: He/Him 💁‍♂️ <br>
 
-- 📄 Know about my projects:: **[My Resume](https://github.com/shubhamsaket49/ShubhamSaket-Portfolio/blob/master/resumeupdated.pdf)**
+- 📄 Know about my projects:: **[My Resume](https://github.com/shubhamsaket49/shubhamsaket49/blob/master/resume_updated.pdf)**
 - ⚡ Fun fact::<b>  I play online games and love coding as well </b>
 <br>
 
