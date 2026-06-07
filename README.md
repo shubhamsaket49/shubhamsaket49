@@ -12,7 +12,7 @@ Building immersive training simulators, defense applications, and interactive ex
 
 ## 🚀 About Me
 
-- 🎮 Senior Unity Developer with experience in Unity 2D/3D, VR, AR and MR
+- 🎮 Senior Unity Developer with experience in Unity 2D/3D, VR, AR and XR
 - 🥽 Developing immersive training simulations for aerospace, safety, and industrial domains
 - ✈️ Worked on LCA Tejas aircraft maintenance training simulators
 - 🧠 Strong background in C#, Unity, API Integration, and Simulation Development
