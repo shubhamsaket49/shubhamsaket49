@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Shubham Saket
 
-### Senior Unity Developer | VR/AR/XR Developer | C# Engineer
+### Senior Unity Developer | VR, AR & XR Simulation Developer | C# Engineer
 
 Building immersive training simulators, defense applications, and interactive experiences using Unity, VR, AR, and C#.
 
@@ -12,9 +12,9 @@ Building immersive training simulators, defense applications, and interactive ex
 
 ## 🚀 About Me
 
-- 🎮 Senior Unity Developer with experience in Unity 2D/3D, VR, AR and XR
-- 🥽 Developing immersive training simulations for aerospace, safety, and industrial domains
-- ✈️ Worked on LCA Tejas aircraft maintenance training simulators
+- 🎮 Senior Unity Developer specializing in VR, AR and XR applications
+- 🥽 Experienced in developing immersive simulations and interactive training systems
+- ✈️ Worked on aerospace and industrial training simulators using Unity and C#
 - 🧠 Strong background in C#, Unity, API Integration, and Simulation Development
 - 🌱 Currently learning Advanced ASP.NET, System Design, and DSA
 - 👯 Open to collaboration on Unity, VR, XR and Simulation projects
@@ -71,9 +71,9 @@ Building immersive training simulators, defense applications, and interactive ex
 ### Game Development & XR
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![XR](https://img.shields.io/badge/XR-Extended_Reality-purple?style=for-the-badge)
 ![VR](https://img.shields.io/badge/Virtual_Reality-VR-blue?style=for-the-badge)
 ![AR](https://img.shields.io/badge/Augmented_Reality-AR-green?style=for-the-badge)
-![MR](https://img.shields.io/badge/Mixed_Reality-MR-orange?style=for-the-badge)
 ![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-FF6B00?style=for-the-badge)
 
 ### Backend & Web
