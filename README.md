@@ -4,7 +4,7 @@
 
 ### Senior Unity Developer | VR, AR & XR Simulation Developer | C# Engineer
 
-Building immersive training simulators, defense applications, and interactive experiences using Unity, VR, AR, and C#.
+Building immersive VR, AR, and XR simulations, training platforms, and interactive experiences using Unity and C#.
 
 </div>
 
