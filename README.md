@@ -108,7 +108,7 @@ Building immersive VR, AR, and XR simulations, training platforms, and interacti
 
 ### Personal Portfolio
 
-https://shubhamsaket49.github.io/ShubhamSaket-Portfolio/
+https://shubhamsaket49.github.io/Portfolio/
 
 ### Project Showcase Videos
 
